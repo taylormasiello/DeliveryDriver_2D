@@ -25,3 +25,4 @@ Oh no! A truck full of packages seems to have dropped them all over the neighbor
 - different colored packages worth various amounts
 - title page
 - high score / credits page
+- stacking boost pads (up to a limit, maybe 3)
