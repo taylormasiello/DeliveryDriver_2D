@@ -29,6 +29,12 @@ public class Driver : MonoBehaviour
 
         transform.Rotate(0, 0, -steerAmount);
         transform.Translate(0, moveAmount, 0);
-        
+
+        // Quits application if user hits escape
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
+
     }
 }
