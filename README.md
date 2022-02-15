@@ -1,5 +1,5 @@
 # Delivery Driver!
-Top-Down 2D driving game, made in Unity
+Top-Down 2D driving delivery game, made in Unity
 
 Oh no! A truck full of packages seems to have dropped them all over the neighborhood. You need to help collect them from the road and drop them off to customers. Hurry, some people are already wandering into the street, help your neighbors!
 
