@@ -26,3 +26,14 @@ Oh no! A truck full of packages seems to have dropped them all over the neighbor
 - title page
 - high score / credits page
 - stacking boost pads (up to a limit, maybe 3)
+
+### To Test or Play:
+  **! Must have Unity installed on machine for game to play**
+  
+  **! Currently still in DEMO/TEST version; use Esc key to close game application**
+
+1. Click green "Code" with down arrow (see above) 
+2. Select "Download Zip"
+3. Extract files to your computer
+4. Open "DeliveryDriver2D_0.9vBuild" folder
+5. Double click on "DeliveryDriver2D.exe"
