@@ -24,16 +24,23 @@ Oh no! A truck full of packages seems to have dropped them all over the neighbor
 - able to carry more packages
 - different colored packages worth various amounts
 - title page
+- instructions page
+- improved customer, packages, boost sprites (also could add more variety)
 - high score / credits page
 - stacking boost pads (up to a limit, maybe 3)
+- add W,S,A,D as additional input controls/options
 
 ### To Test or Play:
   **! Must have Unity installed on machine for game to play**
   
   **! Currently still in DEMO/TEST version; use Esc key to close game application**
+  
+  **Use up, down, left, and right keys to accelerate, decelerate, turn left, and turn right respectively**
 
 1. Click green "Code" with down arrow (see above) 
 2. Select "Download Zip"
 3. Extract files to your computer
 4. Open "DeliveryDriver2D_0.9vBuild" folder
 5. Double click on "DeliveryDriver2D.exe"
+
+**Thanks for trying the game/test/demo out, hope you enjoyed it!**
