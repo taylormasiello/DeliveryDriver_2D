@@ -12,7 +12,7 @@ Oh no! A truck full of packages seems to have dropped them all over the neighbor
 - Boost pads increase player speed
 - colliding with environmental objects decreases player speed
 
-(Not Implemented) Game Mechanics (NEEDED):
+(Not Implemented) Game Mechanics (NEEDS):
 - environmental barrier; fence around neighborhood?
 - score counter (visible to player)
 - game timer (visible to player)
