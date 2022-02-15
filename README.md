@@ -37,7 +37,7 @@ Oh no! A truck full of packages seems to have dropped them all over the neighbor
   
   **Use up, down, left, and right keys to accelerate, decelerate, turn left, and turn right respectively**
 
-1. Click green "Code" with down arrow (see above) 
+1. Click green "Code" with down arrow (see above, hidden on mobile) 
 2. Select "Download Zip"
 3. Extract files to your computer
 4. Open "DeliveryDriver2D_0.9vBuild" folder
